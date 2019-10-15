@@ -1,4 +1,4 @@
-ContextMenuScrollingText - Solution Code
+ContextMenuScrollingText 
 ========================================
 
 Based on the Scrolling Text app that demonstrates ScrollView with a
